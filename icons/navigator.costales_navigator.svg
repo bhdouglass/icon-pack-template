@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2817"
+   height="32"
+   width="32"
+   version="1.0"
+   inkscape:version="0.91 r"
+   sodipodi:docname="navigator.costales_navigator.svg">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1851"
+     inkscape:window-height="1053"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="10.03125"
+     inkscape:cx="16"
+     inkscape:cy="16.398754"
+     inkscape:window-x="69"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2817" />
+  <path
+     d="m0 0v32h32v-32z"
+     style="color:#000000;fill:#013ea8;fill-opacity:1"
+     id="path3" />
+  <path
+     d="m 26.569696,24.278696 c -0.2263,0.42064 -8.3826,-5.2223 -8.8444,-5.2168 -0.46181,0.0056 -8.6678915,5.8454 -8.9033915,5.4303 -0.2353,-0.415 8.2349915,-16.1599915 8.6969915,-16.1659915 0.46181,-0.00555 9.2771,15.5319915 9.0508,15.9519915 z"
+     id="path4139"
+     inkscape:connector-curvature="0"
+     style="fill:#000000;fill-opacity:1;opacity:0.1" />
+  <path
+     id="path40322"
+     d="m24.875 22.584c-0.2263 0.42064-8.3826-5.2223-8.8444-5.2168-0.46181 0.0056-8.6679 5.8454-8.9034 5.4303-0.2353-0.415 8.235-16.16 8.697-16.166 0.46181-0.00555 9.2771 15.532 9.0508 15.952z"
+     fill="#fff" />
+</svg>

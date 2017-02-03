@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <path style="fill:#cbcbcb" d="m0 0v32h32v-32z"/>
+ <g style="opacity:.1" transform="matrix(.7847 0 0 .7847 -4.335 20.54)">
+  <path d="m15.67-19.5h3.945v11.95h14.34v-11.95h3.945v29.16h-3.945v-13.89h-14.34v13.89h-3.945v-29.16z"/>
+ </g>
+ <g style="fill:#b1008d" transform="matrix(.7847 0 0 .7847 -5.015 19.86)">
+  <path style="fill:#b1008d" d="m15.67-19.5h3.945v11.95h14.34v-11.95h3.945v29.16h-3.945v-13.89h-14.34v13.89h-3.945v-29.16z"/>
+ </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 32 32">
+ <path style="fill:#929292" d="m0 0v32h32v-32z" fill="#333"/>
+ <g style="opacity:.1;color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" transform="translate(1.153 1.153)">
+  <rect height="5.448" width="5.448" y="7.5" x="7.5"/>
+  <rect height="5.448" width="5.448" y="7.5" x="13.25"/>
+  <rect height="5.448" width="5.448" y="19" x="13.25"/>
+  <rect height="5.448" width="5.448" y="13.28" x="13.25"/>
+  <rect height="5.448" width="5.448" y="7.5" x="19.04"/>
+ </g>
+ <g style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ede060">
+  <rect style="fill:#ede060" height="5.448" width="5.448" y="7.5" x="7.5"/>
+  <rect style="fill:#ede060" height="5.448" width="5.448" y="7.5" x="13.25"/>
+  <rect style="fill:#ede060" height="5.448" width="5.448" y="19" x="13.25"/>
+  <rect style="fill:#ede060" height="5.448" width="5.448" y="13.28" x="13.25"/>
+  <rect style="fill:#ede060" height="5.448" width="5.448" y="7.5" x="19.04"/>
+ </g>
+</svg>

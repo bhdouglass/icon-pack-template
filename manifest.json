@@ -1,0 +1,15 @@
+{
+    "name": "icon-pack-template.bhdouglass",
+    "description": "An example app for an icon pack",
+    "architecture": "all",
+    "title": "Icon Pack Template",
+    "hooks": {
+        "app": {
+            "apparmor": "app.apparmor",
+            "desktop":  "app.desktop"
+        }
+    },
+    "version": "1.0",
+    "maintainer": "Brian Douglass <bhdouglass@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04.6"
+}

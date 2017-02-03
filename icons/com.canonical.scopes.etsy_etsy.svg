@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="32" width="32" version="1.0" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g transform="matrix(.1138 0 0 .1138 -64.82 -29.38)">
+  <path style="fill:#cbcbcb" d="m569.4 258.1h281.1v281.1h-281.1z"/>
+  <g style="opacity:.1" transform="matrix(.6457 0 0 .6457 618.9 314.4)">
+   <g aria-label="E">
+    <path d="m284.7 213.9h-11.89c-19.11 45.01-37.37 56.05-98.08 56.05h-15.2c-31.42 0-42.89-2.123-42.89-19.96v-103.2h64.12c36.52 0 42.89 5.52 47.98 41.19h9.766v-99.39h-9.766c-5.095 33.54-11.46 40.76-47.98 40.76h-64.1v-93.44c0-13.59 2.972-15.29 14.86-15.29h55.62c49.25 0 59.02 6.369 65.39 44.58h10.62l-1.7-60.71h-225v8.068c31.85 1.698 36.94 8.068 36.94 39.49v185.1c0 32.69-4.246 38.21-36.94 40.34v8.068h228.8z" style="font-variant-numeric:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-feature-settings:normal;stroke-width:10.62px"/>
+   </g>
+  </g>
+  <g style="fill:#d08a48" transform="matrix(.6457 0 0 .6457 606.3 304.9)">
+   <g aria-label="E" style="fill:#d08a48">
+    <path style="font-variant-numeric:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-feature-settings:normal;stroke-width:10.62px;fill:#d08a48" d="m284.7 213.9h-11.89c-19.11 45.01-37.37 56.05-98.08 56.05h-15.2c-31.42 0-42.89-2.123-42.89-19.96v-103.2h64.12c36.52 0 42.89 5.52 47.98 41.19h9.766v-99.39h-9.766c-5.095 33.54-11.46 40.76-47.98 40.76h-64.1v-93.44c0-13.59 2.972-15.29 14.86-15.29h55.62c49.25 0 59.02 6.369 65.39 44.58h10.62l-1.7-60.71h-225v8.068c31.85 1.698 36.94 8.068 36.94 39.49v185.1c0 32.69-4.246 38.21-36.94 40.34v8.068h228.8z"/>
+   </g>
+  </g>
+ </g>
+</svg>

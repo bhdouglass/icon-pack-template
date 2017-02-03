@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <path style="fill:#37566a" d="m0 8v24h32v-24z"/>
+ <g style="opacity:.1" transform="translate(.5727 .5727)">
+  <rect height="2.761" width="3.681" y="10.97" x="10.92"/>
+  <rect height="2.761" width="3.681" y="16.08" x="10.92"/>
+  <rect height="2.761" width="3.681" y="21.23" x="10.92"/>
+  <rect height="2.761" width="3.681" y="21.23" x="17.36"/>
+  <rect height="2.761" width="3.681" y="16.08" x="17.36"/>
+  <rect height="2.761" width="3.681" y="10.97" x="17.36"/>
+  <rect height="2.761" width="3.681" y="21.23" x="23.8"/>
+  <rect height="2.761" width="3.681" y="16.08" x="23.8"/>
+  <rect height="2.761" width="3.681" y="10.97" x="23.8"/>
+  <rect height="2.761" width="3.681" y="10.97" x="4.515"/>
+  <rect height="2.761" width="3.681" y="16.08" x="4.515"/>
+  <rect height="2.761" width="3.681" y="21.23" x="4.515"/>
+ </g>
+ <path style="opacity:.1" d="m0 0.6443v8h32v-8z"/>
+ <rect style="fill:#fff" height="2.761" width="3.681" y="10.97" x="10.92"/>
+ <rect style="fill:#fff" height="2.761" width="3.681" y="16.08" x="10.92"/>
+ <rect style="fill:#fff" height="2.761" width="3.681" y="21.23" x="10.92"/>
+ <rect style="fill:#fff" height="2.761" width="3.681" y="21.23" x="17.36"/>
+ <rect style="fill:#467d14" height="2.761" width="3.681" y="16.08" x="17.36"/>
+ <rect style="fill:#fff" height="2.761" width="3.681" y="10.97" x="17.36"/>
+ <rect style="fill:#fff" height="2.761" width="3.681" y="21.23" x="23.8"/>
+ <rect style="fill:#fff" height="2.761" width="3.681" y="16.08" x="23.8"/>
+ <rect style="fill:#fff" height="2.761" width="3.681" y="10.97" x="23.8"/>
+ <rect style="fill:#df2828" height="2.761" width="3.681" y="10.97" x="4.515"/>
+ <rect style="fill:#fff" height="2.761" width="3.681" y="16.08" x="4.515"/>
+ <rect style="fill:#fff" height="2.761" width="3.681" y="21.23" x="4.515"/>
+ <path style="fill:#de5773" d="m0 0v8h32v-8z"/>
+</svg>

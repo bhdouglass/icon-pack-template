@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <path style="color:#000000;fill:#fff" d="m0 0v32h32v-32z"/>
+ <g style="opacity:.1" transform="matrix(.3410 0 0 .3410 -34.82 19.19)">
+  <path style="opacity:1" d="m123.4-31.36h55.6v-11.53l-55.6 11.53"/>
+  <path style="opacity:1" d="m162.2 39.35v-45.56c0-5.966 4.81-7.536 9.776-7.536h6.827v-11.62h-54.94v11.62h8.691c6.052 0 7.915 3.14 7.915 7.065v45.96z"/>
+ </g>
+ <g transform="matrix(.3410 0 0 .3410 -35.43 18.58)">
+  <path style="fill:#006ba1" d="m123.4-31.36h55.6v-11.53l-55.6 11.53"/>
+  <path style="fill:#211e1e" d="m162.2 39.35v-45.56c0-5.966 4.81-7.536 9.776-7.536h6.827v-11.62h-54.94v11.62h8.691c6.052 0 7.915 3.14 7.915 7.065v45.96z"/>
+ </g>
+</svg>

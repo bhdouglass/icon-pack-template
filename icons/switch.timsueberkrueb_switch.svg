@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <path style="color:#000000;fill:#009688" d="m0 0v32h32v-32z"/>
+ <g transform="matrix(.09620 0 0 .09620 -39.05 11.42)">
+  <rect style="opacity:.1" height="24.17" width="23.68" y="-.4511" x="512.6"/>
+  <rect style="opacity:.1;enable-background:new" height="24.17" width="23.68" y="-.4511" x="553.9"/>
+  <rect style="opacity:.1;enable-background:new" height="24.17" width="23.68" y="68.29" x="512.6"/>
+  <rect style="opacity:.1;enable-background:new" height="24.17" width="23.68" y="68.29" x="553.9"/>
+  <rect style="opacity:.1;enable-background:new" height="24.17" width="23.68" y="-.4511" x="632.6"/>
+  <rect style="opacity:.1;enable-background:new" height="24.17" width="23.68" y="68.29" x="632.6"/>
+  <path style="color-rendering:auto;text-decoration-color:#000000;color:#000000;shape-rendering:auto;solid-color:#000000;text-decoration-line:none;mix-blend-mode:normal;block-progression:tb;opacity:.1;text-indent:0;image-rendering:auto;white-space:normal;text-decoration-style:solid;isolation:auto;text-transform:none" d="m474.1-56.01c-3.037-0.000173-5.499 2.461-5.5 5.498v209c0.0009 3.037 2.463 5.498 5.5 5.498h209c3.037 0.00017 5.499-2.461 5.5-5.498v-209c-0.00091-3.037-2.463-5.498-5.5-5.498zm16.5 22h176v176h-176z"/>
+  <text style="letter-spacing:0px;font-size:40px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="-51.459427" x="160.54057" xml:space="preserve"><tspan y="-51.459427" x="160.54057" style="fill:#fffff7"/></text>
+  <text style="letter-spacing:0px;font-size:40px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="-9" x="157" xml:space="preserve"><tspan y="-9" x="157" style="fill:#ffffff"/></text>
+  <text style="letter-spacing:0px;font-size:40px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="0" x="167" xml:space="preserve"><tspan y="0" x="167"/></text>
+  <rect style="opacity:.1;enable-background:new" height="192.5" width="17.87" y="-39.52" x="595.8"/>
+  <g style="fill:#fff" transform="matrix(.6874 0 0 .6874 110.5 17.4)">
+   <rect style="fill:#fff" height="35.17" width="34.45" y="-35.17" x="575.8"/>
+   <rect style="enable-background:new;fill:#fff" height="35.17" width="34.45" y="-35.17" x="635.8"/>
+   <rect style="enable-background:new;fill:#fff" height="35.17" width="34.45" y="64.83" x="575.8"/>
+   <rect style="enable-background:new;fill:#fff" height="35.17" width="34.45" y="64.83" x="635.8"/>
+   <rect style="enable-background:new;fill:#fff" height="35.17" width="34.45" y="-35.17" x="750.3"/>
+   <rect style="enable-background:new;fill:#fff" height="35.17" width="34.45" y="64.83" x="750.3"/>
+   <path style="stroke-linejoin:round;stroke:#fff;stroke-width:16;fill:#fff" d="m519.8-108v304h304v-304h-304zm16 16h272v272h-272v-272z"/>
+   <rect style="enable-background:new;fill:#fff" height="280" width="26" y="-92" x="696.8"/>
+  </g>
+ </g>
+</svg>

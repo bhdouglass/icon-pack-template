@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <path style="color:#000000;fill:#fbffce" d="m0 0v32h32v-32z"/>
+ <circle cx="27.96" cy="5.727" r="1.002" style="opacity:.1;color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto"/>
+ <g style="opacity:.1" transform="translate(.8949 .8591)">
+  <g transform="matrix(.1356 0 0 .1356 -1.345 -1.335)">
+   <path d="m102.4 151.8-41.8-69.22c-8.819 13.07-13.72 28.42-13.72 45.41 0 8.495 1.307 16.33 3.593 23.85h51.94z"/>
+   <path d="m120 93.35h81.33c-10.4-22.21-30.67-38.87-55.16-44.75l-26.13 44.75z"/>
+   <path d="m93.92 118.5 42.18-71.54c-2.613-0.3267-5.227-0.3267-7.838-0.3267-24.17 0-46.06 10.78-60.76 27.44l26.79 44.43z"/>
+   <path d="m110.9 206.4 25.81-44.75h-82.29c10.78 23.52 32.34 40.84 58.47 45.73l-1.96-0.98z"/>
+   <path d="m153.4 103.2 40.84 71.22c9.143-13.07 14.7-29.07 14.7-46.39 0-8.495-1.307-16.99-3.92-24.5h-51.94z"/>
+   <path d="m161.5 137.5-40.84 71.22c2.287 0.3267 4.573 0.3267 7.186 0.3267 23.52 0 45.08-10.12 59.78-26.46l-26.13-45.08z"/>
+  </g>
+ </g>
+ <g transform="matrix(.1356 0 0 .1356 -1.345 -1.335)">
+  <path style="fill:#3d9956" d="m102.4 151.8-41.8-69.22c-8.819 13.07-13.72 28.42-13.72 45.41 0 8.495 1.307 16.33 3.593 23.85h51.94z"/>
+  <path style="fill:#801b8c" d="m120 93.35h81.33c-10.4-22.21-30.67-38.87-55.16-44.75l-26.13 44.75z"/>
+  <path style="fill:#428358" d="m93.92 118.5 42.18-71.54c-2.613-0.3267-5.227-0.3267-7.838-0.3267-24.17 0-46.06 10.78-60.76 27.44l26.79 44.43z"/>
+  <path style="fill:#978e33" d="m110.9 206.4 25.81-44.75h-82.29c10.78 23.52 32.34 40.84 58.47 45.73l-1.96-0.98z"/>
+  <path style="fill:#3c4992" d="m153.4 103.2 40.84 71.22c9.143-13.07 14.7-29.07 14.7-46.39 0-8.495-1.307-16.99-3.92-24.5h-51.94z"/>
+  <path style="fill:#d26d10" d="m161.5 137.5-40.84 71.22c2.287 0.3267 4.573 0.3267 7.186 0.3267 23.52 0 45.08-10.12 59.78-26.46l-26.13-45.08z"/>
+ </g>
+ <circle r="1.002" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#c20505" cx="27.24" cy="5.119"/>
+</svg>
