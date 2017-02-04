@@ -1,0 +1,9 @@
+{ 
+  "author": "Joan Cibersheep",
+  "maintainer": "Brian Douglass",
+  "title": "Icon Pack Template",
+  "icons": "icons",
+  "description": "Icon pack template using uNumix",
+  "preview": "preview.jpg",
+  "icon": "icons/icon-pack.svg"
+}

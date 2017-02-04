@@ -21,6 +21,28 @@ Android with cutom launchers & icon packs.
 This app can be easily built and deployed using [clickable](https://github.com/bhdouglass/clickable).
 Without clickable you can package the click by running `click build .`.
 
+## Structure
+
+An icon pack app MUST have a file called `icon-pack-data.json`. This is how Falcon
+knows about the installed icon packs. The format of that file is as follows:
+
+```
+{
+  "author": "Name of the author(s) of this icon pack",
+  "maintainer": "Name of the persion maintaining the app for the icon pack",
+  "title": "The name of the icon pack",
+  "icons": "path/to/a/dir/with/icons",
+  "description": "A nice description of the awesomeness of your icon pack",
+  "preview": "path/to/a/preview/screenshot.png",
+  "icon": "path/to/an/icon/representing/the/icon-pack.png"
+}
+```
+
+In the "icons" directory there must be a file called `icon-pack.json`, this
+is a json object with the keys being app ids and the values being relative
+paths to the icons. To get the app ids, just turn on the "Show app ids in preview"
+option in Falcon and long press the apps to see the app id.
+
 ## License
 
 Copyright (C) 2017 [Brian Douglass](http://bhdouglass.com/)
