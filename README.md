@@ -1,6 +1,6 @@
 # Icon Pack Template
 
-A template for creating an icon pack for [Falcon](https://open.uappexplorer.com/app/falcon.bhdouglass).
+A template for creating an icon pack for [Falcon](https://open-store.io/app/falcon.bhdouglass).
 This is a simple Ubuntu Touch app that can be uploaded to the app store and Falcon
 will be able to find it when installed on a user's phone.
 

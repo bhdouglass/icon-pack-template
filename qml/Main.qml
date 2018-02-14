@@ -67,7 +67,7 @@ MainView {
                     Layout.alignment: Qt.AlignHCenter
 
                     text: i18n.tr('Download Falcon')
-                    onClicked: Qt.openUrlExternally('https://open.uappexplorer.com/app/falcon.bhdouglass')
+                    onClicked: Qt.openUrlExternally('https://open-store.io/app/falcon.bhdouglass')
                 }
 
                 GridLayout {
